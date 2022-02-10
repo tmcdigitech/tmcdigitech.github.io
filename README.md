@@ -1,6 +1,4 @@
-# Digital Technology @ Thomas More College
-
-Courses at TMC:
+# Digital Technologies @ [Thomas More College](https://www.tmc.catholic.edu.au/)
 
 [7 Digital Technologies](https://tmcdigitech.github.io/dit7/)
 - Programming with BBC Micro:bit
