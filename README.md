@@ -9,7 +9,7 @@
 - Autonomous robots usign LEGO Mindstorms EV3
 - Game design in Python with PyGame Zero
 
-[9 Digital Technologies Semester 1](https://tmcdigitech.github.io/dit8/)
+[9 Digital Technologies Semester 1](https://tmcdigitech.github.io/dit9a/)
 - Designing and building dynamic websites with Bottle in Python with JSON data sources
 
 9 Digital Technologies Semester 2
